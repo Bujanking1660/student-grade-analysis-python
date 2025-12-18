@@ -2,11 +2,6 @@
 
 Proyek ini adalah implementasi pengolahan data nilai mahasiswa menggunakan library **Pandas** untuk manipulasi data dan **Matplotlib** untuk visualisasi. Proyek ini dikerjakan sebagai bagian dari Ujian Tengah Semester (UTS).
 
-## 👤 Identitas Mahasiswa
-- **Nama** : Rizkya Gusnaldy Kalia
-- **NIM** : 10124190
-- **Kelas** : IF-5
-
 ## 📝 Deskripsi Proyek
 Program ini melakukan automasi pengolahan nilai mentah dari file Excel menjadi nilai akhir dan indeks huruf (A-E). Langkah-langkah yang dilakukan meliputi:
 1. **Data Cleaning**: Menghapus data duplikat dan baris yang memiliki nilai kosong (NaN).
