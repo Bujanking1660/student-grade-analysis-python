@@ -50,8 +50,3 @@ python main.py
 
 © 2025 Rizkya Gusnaldy Kalia - Universitas Komputer Indonesia
 
-```
-
-Apakah kamu ingin saya bantu membuatkan contoh file `.gitignore` atau ada bagian kode yang ingin dioptimalkan?
-
-```
